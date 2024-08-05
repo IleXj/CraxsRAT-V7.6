@@ -17,10 +17,4 @@ Powerful RAT for Android 2024
 
 ![image](https://github.com/Iestaxl/CraxsRAT-7.5/assets/169180644/ef27a6ed-016b-4226-834f-1009ed8dbc5a)
 
-![image](https://github.com/Iestaxl/CraxsRAT-7.5/assets/169180644/d754df9e-ed10-4b19-a329-588258afd36d)
-
-
-
-
-
 ![image](https://github.com/user-attachments/assets/b8fe5ede-f590-4b13-9d26-227789d8e211)
